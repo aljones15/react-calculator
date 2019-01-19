@@ -1,0 +1,6 @@
+export const minus = 'MINUS'
+export const plus = 'PLUS'
+export const multiply = 'MULTIPLE'
+export const divide = 'DIVIDE'
+export const equals = '='
+export const clear = 'AC'
